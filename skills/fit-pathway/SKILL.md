@@ -258,3 +258,14 @@ framework data to get started.
 npx fit-map validate    # Validate data files after changes
 npx fit-pathway dev     # Preview changes in browser
 ```
+
+## Documentation
+
+For deeper context beyond this skill's scope:
+
+- [Agent Teams Guide](https://www.forwardimpact.team/docs/guides/agent-teams/index.md)
+  — How to generate and install AI coding agent teams from your career framework
+- [Career Paths Guide](https://www.forwardimpact.team/docs/guides/career-paths/index.md)
+  — Browse jobs, skills, and career progression between levels
+- [CLI Reference](https://www.forwardimpact.team/docs/reference/cli/index.md) —
+  Complete command reference for all Forward Impact CLI tools
