@@ -8,7 +8,7 @@ description: >
   metrics with Wheeler/Vacanti XmR control charts.
 license: Apache-2.0
 metadata:
-  version: "0.1.4"
+  version: "0.1.5"
   author: forwardimpact
 ---
 
