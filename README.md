@@ -1,7 +1,6 @@
 # Forward Impact Skills
 
-Agent skills for the [Forward Impact](https://forwardimpact.team)
-engineering standard.
+Agent skills for the [Forward Impact](https://forwardimpact.team) engineering standard.
 
 ## Install
 
