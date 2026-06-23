@@ -10,12 +10,6 @@ With [APM](https://microsoft.github.io/apm/):
 apm install forwardimpact/fit-skills
 ```
 
-With [npx skills](https://github.com/vercel-labs/skills):
-
-```bash
-npx skills add forwardimpact/fit-skills
-```
-
 ## Available Skills
 
 | Skill | Description |
@@ -27,6 +21,7 @@ npx skills add forwardimpact/fit-skills
 | **fit-landmark** | Demonstrate engineering progress without making individuals feel surveilled, and show evidence of growth. Use when the quarterly review has only ticket counts and you need system-level trends, when checking promotion readiness, when assessing whether culture investments are working, or when exploring GetDX snapshot trends, marker evidence, engineer voice, and growth timelines. |
 | **fit-map** | Define what good engineering means so roles have clear, defensible expectations, and provision activity-database substrates. Use when defining or updating skills, capabilities, behaviours, disciplines, tracks, levels, or questions; when pushing rosters, syncing GetDX snapshots, or ingesting GitHub artifacts; or when staging, listing, picking, and issuing personas from a seeded substrate. |
 | **fit-outpost** | Keep track of people, projects, and threads without depending on memory. Use when context is scattered across email, calendar, and notes and you need a daily briefing, when managing email drafts, or when scheduling background AI tasks, maintaining a personal knowledge base, checking agent status, and waking agents on demand. |
+| **fit-pack** | Distribute a skill pack so agents and engineers can install it through their package manager. Use when publishing skills and agents to a shared repository, when a bare install pulls skills but silently drops agents, or when you need the install to land in APM's conventional layout. Stages skills, agents, and references into one repository tree with a generated manifest and README. |
 | **fit-pathway** | See what's expected at your level, configure agents to meet your organization's engineering standard, and make staffing decisions you can defend. Use when expectations are unclear and you need role definitions by discipline, track, and level, when agents follow generic practices instead of your standard, when analyzing career progression gaps, or when generating job definitions, interview questions, or a published engineering standard site. |
 | **fit-summit** | Make staffing decisions you can defend by modeling team capability as a system. Use when a post-mortem surfaces the same skill gap again, when evaluating whether a hire, transfer, or promotion strengthens the team, when detecting structural risks like single points of failure, or when simulating what-if scenarios, aligning growth with team gaps, comparing teams, and tracking capability trajectory over time. |
 | **fit-terrain** | Produce a complete eval dataset from a single DSL file so you can prove agent changes with reproducible evidence. Use when setting up an eval and you need to coordinate generation, rendering, and validation, when bootstrapping a realistic environment for demos or testing, or when regenerating a dataset after a schema change. |
