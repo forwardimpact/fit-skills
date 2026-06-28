@@ -23,7 +23,8 @@ rendering into multiple output formats.
 **Generate eval datasets and test data:**
 
 - Building from cached prose (no LLM needed) — `npx fit-terrain build`
-- Regenerating prose with an LLM — `ANTHROPIC_API_KEY=... npx fit-terrain generate`
+- Regenerating prose with an LLM —
+  `ANTHROPIC_API_KEY=... npx fit-terrain generate`
 - Validating a terrain DSL file — `npx fit-terrain check`
 
 **Bootstrap a realistic environment:**
