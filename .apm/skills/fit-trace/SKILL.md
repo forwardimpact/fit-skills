@@ -7,7 +7,7 @@ description: >
   when studying agent behavior patterns from NDJSON traces.
 license: Apache-2.0
 metadata:
-  version: "0.1.11"
+  version: "0.1.12"
   author: forwardimpact
 ---
 
