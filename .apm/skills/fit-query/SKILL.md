@@ -7,7 +7,7 @@ description: >
   standing up a SPARQL endpoint.
 license: Apache-2.0
 metadata:
-  version: "0.1.16"
+  version: "0.1.17"
   author: forwardimpact
 ---
 
