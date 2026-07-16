@@ -6,7 +6,7 @@ description: >
   trace or resource id, and see the call flow without wiring up a tracing UI.
 license: Apache-2.0
 metadata:
-  version: "0.1.20"
+  version: "0.1.21"
   author: forwardimpact
 ---
 
