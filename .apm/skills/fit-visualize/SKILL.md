@@ -7,7 +7,7 @@ description: >
   tracing UI.
 license: Apache-2.0
 metadata:
-  version: "0.1.21"
+  version: "0.1.22"
   author: forwardimpact
 ---
 
