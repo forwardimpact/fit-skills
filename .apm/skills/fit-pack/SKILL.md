@@ -8,7 +8,7 @@ description: >
   references into one repository tree with a generated manifest and README.
 license: Apache-2.0
 metadata:
-  version: "0.3.1"
+  version: "0.3.2"
   author: forwardimpact
 ---
 
