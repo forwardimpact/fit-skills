@@ -8,7 +8,7 @@ description: >
   the first time, or when a runtime image needs to fetch the generated bundle.
 license: Apache-2.0
 metadata:
-  version: "0.3.2"
+  version: "0.3.3"
   author: forwardimpact
 ---
 
