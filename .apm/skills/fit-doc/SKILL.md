@@ -7,7 +7,7 @@ description: >
   augmentation, content partials, or the pre-build hook.
 license: Apache-2.0
 metadata:
-  version: "0.3.3"
+  version: "0.3.4"
   author: forwardimpact
 ---
 
