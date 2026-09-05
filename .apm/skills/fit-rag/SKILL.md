@@ -7,7 +7,7 @@ description: >
   up a vector database or SPARQL endpoint.
 license: Apache-2.0
 metadata:
-  version: "0.3.5"
+  version: "0.3.6"
   author: forwardimpact
 ---
 
