@@ -9,7 +9,7 @@ description: >
   and issue personas for an interview run.
 license: Apache-2.0
 metadata:
-  version: "0.3.8"
+  version: "0.3.9"
   author: forwardimpact
 ---
 
