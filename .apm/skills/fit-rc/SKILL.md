@@ -6,7 +6,7 @@ description: >
   do not want to remember each one's specific command, port, and flags.
 license: Apache-2.0
 metadata:
-  version: "0.3.9"
+  version: "0.3.10"
   author: forwardimpact
 ---
 

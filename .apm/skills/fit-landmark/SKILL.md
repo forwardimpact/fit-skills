@@ -9,7 +9,7 @@ description: >
   engineer voice, and growth timelines.
 license: Apache-2.0
 metadata:
-  version: "0.3.9"
+  version: "0.3.10"
   author: forwardimpact
 ---
 
